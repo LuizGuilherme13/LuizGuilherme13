@@ -1,4 +1,4 @@
-### Hi! My name is Luiz and I'm a mobile developer 📱💻
+### Hi! My name is Luiz and I'm a software developer 📱💻
 
 <div align="left">
   <a href="https://github.com/LuizGuilherme13">
