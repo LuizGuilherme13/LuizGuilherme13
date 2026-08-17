@@ -1,0 +1,4 @@
+baseURL = 'https://luizguilherme13.github.io/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'papermod'
